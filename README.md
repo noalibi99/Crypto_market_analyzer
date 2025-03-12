@@ -15,8 +15,7 @@ An advanced cryptocurrency market analysis platform built with Streamlit and Bin
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-trading-platform.git
-cd crypto-trading-platform
+git clone https://github.com/noalibi99/Crypto_market_analyzer
 ```
 
 2. Install dependencies:
@@ -37,12 +36,3 @@ streamlit run app.py
 
 - Set up your Binance API credentials in `config.py`
 - Configure email settings for price alerts
-
-
-## License
-
-MIT
-
-## Contributors
-
-M&K
