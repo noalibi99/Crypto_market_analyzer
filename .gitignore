@@ -1,0 +1,25 @@
+# Environment
+venv/
+env/
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Streamlit
+.streamlit/
